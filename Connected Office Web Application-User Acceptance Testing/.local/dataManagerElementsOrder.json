@@ -12,8 +12,18 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "dt_EcoPower1&Sequence_5",
-        "PW&Sequence_3"
+        "variable1&Sequence_16",
+        "Orderdate&Sequence_16",
+        "dt_EcoPower1&Sequence_1",
+        "dt_Ecopower2&Sequence_1",
+        "dt_EcoPower3&Sequence_1",
+        "dt_EcoPower4&Sequence_1",
+        "PW&Sequence_10",
+        "AppStatus&Sequence_12",
+        "CustomerName&Sequence_26",
+        "CustomerID&Sequence_27",
+        "ProductD&Sequence_34",
+        "OrderID&Sequence_35"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
